@@ -20,13 +20,17 @@ redirect_from:
 
 Hi, friends! I’m Yifan Wang (汪一帆), a passionate educator, cultural ambassador, and content creator based in New York. Currently, I am a student in the TCSOL program at [Teachers College, Columbia University](https://www.tc.columbia.edu/). I hold a Master’s degree in International Chinese Language Education (MICLE) from the [School of Chinese Language and Literature, Wuhan University (WHU)](https://chinese.whu.edu.cn/).
 
+
 With a specialization in language teaching, cultural exchange, and social media operations, I am dedicated to helping learners connect with the world by discovering the power of language and sharing their own unique stories.
 
+
 Over the past few years, I’ve had the privilege of teaching and working across the UK, South Korea, and the United States, where I’ve honed my skills in crafting personalized learning experiences and managing cross-cultural programs. Whether it’s delivering tailored lessons for corporate employees, organizing large-scale cultural events, or engaging young learners in immersive language activities, I am committed to making language learning both meaningful and enjoyable.
+
 
 My interests span social culture, music, and travel. During my exchange at the [University of Manchester](https://www.manchester.ac.uk/), I was introduced to the field of sociology, which inspired me to think about integrating Chinese language teaching with social and cultural contexts. This approach aligns with my teaching philosophy:
 
 **“Learning a second language is ultimately about telling your own STORY in another language.”**
+
 
 # 📚 Work Experience
 
@@ -69,6 +73,7 @@ Description: Engages young learners through games, picture books, and songs to f
 **Advanced Chinese**
 Target Audience: Advanced learners interested in societal and cultural topics
 Description: Explores global issues such as the rise of feminism, self-identity, family dynamics, and interpersonal relationships. Combines authentic materials with structured learning to enhance language proficiency while fostering cross-cultural understanding and critical thinking.
+
 
 # 💬 Bilingual Podcast【Upcoming】
 
