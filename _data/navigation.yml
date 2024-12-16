@@ -3,20 +3,17 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
-
-  - title: "Teaching Experience"
-    url: "/#-teaching-experience"
+  - title: "Work Experience"
+    url: "/#-work-experience"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Initiative Courses"
+    url: "/#-initiative-courses"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Bilingual Podcast"
+    url: "/#-bilingual-podcast"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Updates"
+    url: "/#-updates"
