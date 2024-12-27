@@ -72,9 +72,8 @@ Description: Explores global issues such as the rise of feminism, self-identity,
 
 # 💬 Bilingual Podcast【Upcoming】
 
-* *2024.12.19* : 为什么‘美美丽丽’听起来怪怪的？ *Why does "美美丽丽" sound so odd?*
-* *2024.12.24*: 节日氛围让我怀念起去年的圣诞 *The holiday vibe reminds me of last Christmas.*
-* *2024.12.31*: 电影与自我：从《好东西》看‘我的故事’ *Film and Self: Reflecting on "My Story" through *The Good Stuff**
+* *2024.12.28* : 为什么‘美美丽丽’听起来怪怪的？ *Why does "美美丽丽" sound so odd?*
+* *2024.12.31*: 节日氛围让我怀念起去年的新年 *The holiday vibe reminds me of last New Year.*
 
 # 🔥 Updates
 
